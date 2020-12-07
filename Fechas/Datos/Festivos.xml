@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Festivos>
+    <Festivo>
+      <Dia>01</Dia><Mes>01</Mes><Nombre>Año nuevo</Nombre><Tipo>1</Tipo><DiasPascua></DiasPascua>
+    </Festivo>
+    <Festivo>
+      <Dia>06</Dia><Mes>01</Mes><Nombre>Santos Reyes</Nombre><Tipo>2</Tipo><DiasPascua></DiasPascua>
+    </Festivo>
+    <Festivo>
+      <Dia>19</Dia><Mes>03</Mes><Nombre>San José</Nombre><Tipo>2</Tipo><DiasPascua></DiasPascua>
+    </Festivo>
+    <Festivo>
+      <Dia></Dia><Mes></Mes><Nombre>Jueves Santo</Nombre><Tipo>3</Tipo><DiasPascua>-3</DiasPascua>
+    </Festivo>
+    <Festivo>
+      <Dia></Dia><Mes></Mes><Nombre>Viernes Santo</Nombre><Tipo>3</Tipo><DiasPascua>-2</DiasPascua>
+    </Festivo>
+    <Festivo>
+      <Dia></Dia><Mes></Mes><Nombre>Domingo de Pascua</Nombre><Tipo>3</Tipo><DiasPascua>0</DiasPascua>
+    </Festivo>
+    <Festivo>
+      <Dia>01</Dia><Mes>05</Mes><Nombre>Día del Trabajo</Nombre><Tipo>1</Tipo><DiasPascua></DiasPascua>
+    </Festivo>
+    <Festivo>
+      <Dia></Dia><Mes></Mes><Nombre>Ascensión del Señor</Nombre><Tipo>4</Tipo><DiasPascua>40</DiasPascua>
+    </Festivo>
+    <Festivo>
+      <Dia></Dia><Mes></Mes><Nombre>Corpus Christi</Nombre><Tipo>4</Tipo><DiasPascua>61</DiasPascua>
+    </Festivo>
+    <Festivo>
+      <Dia></Dia><Mes></Mes><Nombre>Sagrado Corazón de Jesús</Nombre><Tipo>4</Tipo><DiasPascua>68</DiasPascua>
+    </Festivo>
+    <Festivo>
+      <Dia>29</Dia><Mes>06</Mes><Nombre>San Pedro y San Pablo</Nombre><Tipo>2</Tipo><DiasPascua></DiasPascua>
+    </Festivo>
+    <Festivo>
+      <Dia>20</Dia><Mes>07</Mes><Nombre>Independencia Colombia</Nombre><Tipo>1</Tipo><DiasPascua></DiasPascua>
+    </Festivo>
+    <Festivo>
+      <Dia>07</Dia><Mes>08</Mes><Nombre>Batalla de Boyacá</Nombre><Tipo>1</Tipo><DiasPascua></DiasPascua>
+    </Festivo>
+    <Festivo>
+      <Dia>15</Dia><Mes>08</Mes><Nombre>Asunción de la Virgen</Nombre><Tipo>2</Tipo><DiasPascua></DiasPascua>
+    </Festivo>
+    <Festivo>
+      <Dia>12</Dia><Mes>10</Mes><Nombre>Día de la Raza</Nombre><Tipo>2</Tipo><DiasPascua></DiasPascua>
+    </Festivo>
+    <Festivo>
+      <Dia>01</Dia><Mes>11</Mes><Nombre>Todos los santos</Nombre><Tipo>2</Tipo><DiasPascua></DiasPascua>
+    </Festivo>
+    <Festivo>
+      <Dia>11</Dia><Mes>11</Mes><Nombre>Independencia de Cartagena</Nombre><Tipo>2</Tipo><DiasPascua></DiasPascua>
+    </Festivo>
+    <Festivo>
+      <Dia>08</Dia><Mes>12</Mes><Nombre>Inmaculada Concepción</Nombre><Tipo>1</Tipo><DiasPascua></DiasPascua>
+    </Festivo>
+    <Festivo>
+      <Dia>25</Dia><Mes>12</Mes><Nombre>Navidad</Nombre><Tipo>1</Tipo><DiasPascua></DiasPascua>
+    </Festivo>
+</Festivos>
